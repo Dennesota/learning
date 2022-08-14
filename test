@@ -27,3 +27,10 @@ b=a
 // Only change code below this line
 
 var a = 9
+
+var myFirstName = "Denis";
+var myLastName = "Brown";
+
+var a=5;
+var b=10;
+var c="I am a";
