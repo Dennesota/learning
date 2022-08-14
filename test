@@ -70,3 +70,5 @@ var myDecimal = 5.7;
 var product = 2.0 * 2.5;
 
 var quotient = 4.4 / 2.0; // Change this line
+
+var remainder = 11%3;
