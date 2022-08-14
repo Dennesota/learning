@@ -13,3 +13,8 @@ h1>Hello World.</h1>
 <h2>CatPhotoApp</h2>
 
 var myName;
+
+// Setup
+var a;
+a=7
+// Only change code below this line
