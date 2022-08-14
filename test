@@ -72,3 +72,7 @@ var product = 2.0 * 2.5;
 var quotient = 4.4 / 2.0; // Change this line
 
 var remainder = 11%3;
+
+a += 12;
+b += 9;
+c += 7;
