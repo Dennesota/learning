@@ -108,3 +108,9 @@ myStr += "This is the second sentence."
 function maps(x){
   return x.map(v => v*2);
 }
+
+String.prototype.isUpperCase = function() {
+  // your code here
+  const re = /([a-z]+)/g;
+  return !re.test(this);
+}
