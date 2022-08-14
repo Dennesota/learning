@@ -64,3 +64,5 @@ var quotient = 66 / 33;
 myVar++;
 
 myVar--;
+
+var myDecimal = 5.7;
